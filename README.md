@@ -1,1 +1,3 @@
 # NEA-Practice
+
+print('Hello')
